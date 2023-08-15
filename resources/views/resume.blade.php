@@ -1,6 +1,6 @@
 @include('Layout.header')
 <div class="container">
-    <h1>Resume</h1>
+    <h1>Resumes</h1>
     @if (count($errors) > 0)
          <div class = "alert alert-danger">
             <ul>
